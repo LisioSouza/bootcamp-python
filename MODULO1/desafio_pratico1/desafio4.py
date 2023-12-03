@@ -1,0 +1,1 @@
+# Reescreva a função area da atividade 3, utilizando o conceito de funções anônimas (funções lambdas).

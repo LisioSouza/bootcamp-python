@@ -1,0 +1,1 @@
+# Reescreva o código da Atividade 1 utilizando o conceito de compreensão de dicionários (dict comprehension)

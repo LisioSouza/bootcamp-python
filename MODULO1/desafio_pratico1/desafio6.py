@@ -1,0 +1,1 @@
+# Considere a seguinte agenda de disponibilidade de atendimento de uma clínica com vários médicos, cada um de uma especialidade distinta. Essa clínica possuí apenas três consultórios, e, por isso, no máximo três médicos podem atender por dia.
