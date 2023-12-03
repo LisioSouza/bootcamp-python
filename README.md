@@ -1,7 +1,7 @@
 ## BOOTCAMP DESENVOLVEDOR PYTHON - XPE
 
 * O objetivo do Bootcamp é apresentar conceitos fundamentais e avançados da linguagem Python e sua aplicação nas áreas da análise de dados e programação Web.
-* Disponível em [Página do IGTI]("https://online.igti.com.br/login/canvas)
+* Disponível em [Página do IGTI](https://online.igti.com.br/login/canvas)
 
 ### Conteúdo:
 
