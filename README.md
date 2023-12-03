@@ -38,6 +38,5 @@
 
 ### Desafio Final
 
-** Construir e realizar o deploy de um modelo de aprendizado de
-máquina com Python.
+##### Construir e realizar o deploy de um modelo de aprendizado de máquina com Python.
 
