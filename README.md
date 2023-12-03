@@ -2,7 +2,22 @@
 
 * O objetivo do Bootcamp é apresentar conceitos fundamentais e avançados da linguagem Python e sua aplicação nas áreas da análise de dados e programação Web.
 
-### Conteúdo
+### Conteúdo:
 
-####
+#### Seção 01: Fundamentos de Python
+
+• Introdução ao Python
+• Escrevendo em Python
+• Tipos de dados em Python
+• List; Tuple; Sets e Dictionary
+• Condições, Loops e Funções
+• Módulos em Python
+• Importando pacotes e Funções básicas
+
+#### Seção 02: Phyton para a Análise de Dados
+
+• Introdução à análise de dados
+• Pandas e numpy para a análise de dados
+• Introdução ao Scikit-learn
+• Aplicações pŕaticas com python para análise de dados
 
